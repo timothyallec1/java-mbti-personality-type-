@@ -1,0 +1,20 @@
+public static void main(String[] args) throws IOException {
+prompt message for what the program will do
+prompt user for input file name
+prompt user for output file name
+print out the names and percentages and personality type
+
+public static String[] getLine(String line){
+creates an array from the information found in the personality.txt file
+do this for every name in the file
+
+
+
+public static int[] calculateAnswer(String[] inputArray) {
+ scan through the file
+ count the amount of times the line reads "A" and "B"
+
+
+public static int[] calculateBPercentage(int[] breakdown) {
+
+
